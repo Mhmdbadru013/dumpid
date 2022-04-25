@@ -6,4 +6,4 @@ git clone https://github.com/Mhmdbadru013/dumpid
 
 cd dumpid
 
-python dumpid.py
+python dump.py
