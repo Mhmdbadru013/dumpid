@@ -6,7 +6,7 @@ git clone https://github.com/Mhmdbadru013/dumpid
 
 cd dumpid
 
-python dump.py
+python Diaz.py
 
 # Jika Kalian Tidak Mempunyai File Dump Kalian Bisa Download Dibawah Ini, Dan Taro Di Luar folder Internal 
 
