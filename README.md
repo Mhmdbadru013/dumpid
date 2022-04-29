@@ -2,7 +2,7 @@
 
 
 
-git clone https://github.com/Mhmdbadru013/dumpid
+git clone https://github.com/Mhmdbadru013/memekid
 
 cd dumpid
 
